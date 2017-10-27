@@ -32,7 +32,7 @@ E-mail  ：  702574512@qq.com
 
 ## 项目经历
 
-1. 个人博客（www.bayir.cc），通过自学，开发的第一个个人网站。运用HTML+CSS+Wordpress技术。
+1. 个人博客[www.bayir.cc](http://www.bayir.cc) ，通过自学，开发的第一个个人网站。运用HTML+CSS+Wordpress技术。
 2. 电商网站
 3. 新闻网站
 4. 订单系统
