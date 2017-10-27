@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# 托里巴依尔的个人简历
 
-You can use the [editor on GitHub](https://github.com/tuolibayir/myresume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+性别：男
+民    族： 
+毕业院校： 
+专    业： 
+地    址： 
+电    话： xxxxxx
+E-mail  ：  702574512@qq.com
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 求职意向
 
-### Jekyll Themes
+**Web前端开发**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tuolibayir/myresume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 教育背景
 
-### Support or Contact
+| 时间        | 学校           | 专业  |学历|
+| ------------- |:-------------:| -----:|----:|
+| 2010/09-2015/06 | 天津音乐学院 |作曲 |本科|
+| 2007/09--2010/06| 内蒙古大学艺术学院附中| 作曲|本科|
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 个人能力
+
+```
+熟练HTML、CSS
+熟练JavaScript
+熟练jQuery、Bootstrap等框架
+了解Vue.js 会使用git版本控制系统，会使用Photoshop进行图片编辑。
+```
+
+## 项目经历
+
+1. 个人博客（www.bayir.cc），通过自学，开发的第一个个人网站。运用HTML+CSS+Wordpress技术。
+2. 电商网站
+3. 新闻网站
+4. 订单系统
+5. 手机app
+
+## 自我评价
+
+本人性格沉稳，喜欢研究解决各种问题，喜爱钻研计算机技术。具有良好的团队精神，诚服接受上级安排工作任务，会不计个人的利益以尽自已最大能力做好工作职责。自学能力强，有问题不逃避，愿意虚心向他人学习。
